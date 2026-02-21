@@ -21,4 +21,16 @@
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/divyamanaswini05/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Array
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyamanaswini05/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Binary Search
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyamanaswini05/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyamanaswini05/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
