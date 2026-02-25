@@ -21,6 +21,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/divyamanaswini05/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/divyamanaswini05/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Bit Manipulation
 |  |
 | ------- |
