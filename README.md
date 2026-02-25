@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/divyamanaswini05/Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyamanaswini05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -42,6 +43,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/divyamanaswini05/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
