@@ -44,6 +44,7 @@
 | [0287-find-the-duplicate-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/divyamanaswini05/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/divyamanaswini05/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1929-concatenation-of-array](https://github.com/divyamanaswini05/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyamanaswini05/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyamanaswini05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/divyamanaswini05/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -99,4 +101,8 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Matrix
+|  |
+| ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/divyamanaswini05/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 <!---LeetCode Topics End-->
