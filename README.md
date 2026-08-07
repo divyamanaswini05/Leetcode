@@ -26,6 +26,7 @@
 | [0268-missing-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/divyamanaswini05/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/divyamanaswini05/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/divyamanaswini05/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/divyamanaswini05/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/divyamanaswini05/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/divyamanaswini05/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/divyamanaswini05/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/divyamanaswini05/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyamanaswini05/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
