@@ -11,11 +11,13 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/divyamanaswini05/Leetcode/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/divyamanaswini05/Leetcode/tree/master/0761-special-binary-string) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/divyamanaswini05/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/divyamanaswini05/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0761-special-binary-string](https://github.com/divyamanaswini05/Leetcode/tree/master/0761-special-binary-string) |
@@ -46,6 +48,7 @@
 | [0035-search-insert-position](https://github.com/divyamanaswini05/Leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/divyamanaswini05/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyamanaswini05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/divyamanaswini05/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -66,6 +69,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/divyamanaswini05/Leetcode/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/divyamanaswini05/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyamanaswini05/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
@@ -76,6 +80,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/divyamanaswini05/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/divyamanaswini05/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -128,4 +133,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/divyamanaswini05/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/divyamanaswini05/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
