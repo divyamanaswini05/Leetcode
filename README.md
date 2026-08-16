@@ -41,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/divyamanaswini05/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/divyamanaswini05/Leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/divyamanaswini05/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyamanaswini05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -105,6 +106,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/divyamanaswini05/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/divyamanaswini05/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
