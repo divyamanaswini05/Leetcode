@@ -41,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/divyamanaswini05/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/divyamanaswini05/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/divyamanaswini05/Leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/divyamanaswini05/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -106,6 +107,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/divyamanaswini05/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/divyamanaswini05/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/divyamanaswini05/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0287-find-the-duplicate-number) |
