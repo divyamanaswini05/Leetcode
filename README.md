@@ -56,6 +56,7 @@
 | [0287-find-the-duplicate-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/divyamanaswini05/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/divyamanaswini05/Leetcode/tree/master/0704-binary-search) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/divyamanaswini05/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/divyamanaswini05/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/divyamanaswini05/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -69,6 +70,7 @@
 | [0268-missing-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/divyamanaswini05/Leetcode/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyamanaswini05/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
