@@ -56,6 +56,7 @@
 | [0268-missing-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/divyamanaswini05/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/divyamanaswini05/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/divyamanaswini05/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0072-edit-distance](https://github.com/divyamanaswini05/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyamanaswini05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/divyamanaswini05/Leetcode/tree/master/0322-coin-change) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/divyamanaswini05/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Tree
 |  |
@@ -148,4 +150,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/divyamanaswini05/Leetcode/tree/master/0169-majority-element) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/divyamanaswini05/Leetcode/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/divyamanaswini05/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/divyamanaswini05/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
