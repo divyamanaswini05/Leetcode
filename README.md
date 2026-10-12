@@ -167,6 +167,7 @@
 | ------- |
 | [0584-find-customer-referee](https://github.com/divyamanaswini05/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/divyamanaswini05/Leetcode/tree/master/0595-big-countries) |
+| [1527-patients-with-a-condition](https://github.com/divyamanaswini05/Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/divyamanaswini05/Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/divyamanaswini05/Leetcode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
