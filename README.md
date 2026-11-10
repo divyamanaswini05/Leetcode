@@ -26,6 +26,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0414-third-maximum-number) |
 | [0761-special-binary-string](https://github.com/divyamanaswini05/Leetcode/tree/master/0761-special-binary-string) |
+| [0905-sort-array-by-parity](https://github.com/divyamanaswini05/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/divyamanaswini05/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Math
 |  |
@@ -70,6 +71,7 @@
 | [0414-third-maximum-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/divyamanaswini05/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/divyamanaswini05/Leetcode/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/divyamanaswini05/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/divyamanaswini05/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/divyamanaswini05/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/divyamanaswini05/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -147,6 +149,7 @@
 | [0283-move-zeroes](https://github.com/divyamanaswini05/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/divyamanaswini05/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
