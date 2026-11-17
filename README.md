@@ -10,6 +10,7 @@
 | [0761-special-binary-string](https://github.com/divyamanaswini05/Leetcode/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/divyamanaswini05/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/divyamanaswini05/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2351-first-letter-to-appear-twice](https://github.com/divyamanaswini05/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/divyamanaswini05/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/divyamanaswini05/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/divyamanaswini05/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2351-first-letter-to-appear-twice](https://github.com/divyamanaswini05/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Array
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/divyamanaswini05/Leetcode/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/divyamanaswini05/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2351-first-letter-to-appear-twice](https://github.com/divyamanaswini05/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyamanaswini05/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
@@ -114,6 +117,7 @@
 | [0268-missing-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/divyamanaswini05/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2351-first-letter-to-appear-twice](https://github.com/divyamanaswini05/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Rolling Hash
 |  |
 | ------- |
