@@ -27,6 +27,7 @@
 | [0169-majority-element](https://github.com/divyamanaswini05/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/divyamanaswini05/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0761-special-binary-string](https://github.com/divyamanaswini05/Leetcode/tree/master/0761-special-binary-string) |
@@ -74,6 +75,7 @@
 | [0287-find-the-duplicate-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/divyamanaswini05/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/divyamanaswini05/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/divyamanaswini05/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -94,6 +96,7 @@
 | [0268-missing-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/divyamanaswini05/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/divyamanaswini05/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyamanaswini05/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -116,6 +119,7 @@
 | [0169-majority-element](https://github.com/divyamanaswini05/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/divyamanaswini05/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/divyamanaswini05/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyamanaswini05/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Rolling Hash
@@ -163,6 +167,7 @@
 | [0287-find-the-duplicate-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/divyamanaswini05/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/divyamanaswini05/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/divyamanaswini05/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Matrix
