@@ -87,6 +87,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/divyamanaswini05/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/divyamanaswini05/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/divyamanaswini05/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyamanaswini05/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -121,6 +122,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyamanaswini05/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/divyamanaswini05/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyamanaswini05/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Rolling Hash
 |  |
