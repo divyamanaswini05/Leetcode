@@ -34,6 +34,7 @@
 | [0761-special-binary-string](https://github.com/divyamanaswini05/Leetcode/tree/master/0761-special-binary-string) |
 | [0905-sort-array-by-parity](https://github.com/divyamanaswini05/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/divyamanaswini05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/divyamanaswini05/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/divyamanaswini05/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Math
 |  |
@@ -85,6 +86,7 @@
 | [0704-binary-search](https://github.com/divyamanaswini05/Leetcode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/divyamanaswini05/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/divyamanaswini05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/divyamanaswini05/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyamanaswini05/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/divyamanaswini05/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/divyamanaswini05/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -178,6 +180,7 @@
 | [0611-valid-triangle-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/divyamanaswini05/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/divyamanaswini05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/divyamanaswini05/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
