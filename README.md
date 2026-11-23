@@ -95,6 +95,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/divyamanaswini05/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyamanaswini05/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/divyamanaswini05/Leetcode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0704-binary-search](https://github.com/divyamanaswini05/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyamanaswini05/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyamanaswini05/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/divyamanaswini05/Leetcode/tree/master/2540-minimum-common-value) |
 ## Counting
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/divyamanaswini05/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyamanaswini05/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2540-minimum-common-value](https://github.com/divyamanaswini05/Leetcode/tree/master/2540-minimum-common-value) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -181,6 +184,7 @@
 | [0905-sort-array-by-parity](https://github.com/divyamanaswini05/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/divyamanaswini05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyamanaswini05/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2540-minimum-common-value](https://github.com/divyamanaswini05/Leetcode/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
