@@ -36,6 +36,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/divyamanaswini05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyamanaswini05/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/divyamanaswini05/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyamanaswini05/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyamanaswini05/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/divyamanaswini05/Leetcode/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyamanaswini05/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/divyamanaswini05/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyamanaswini05/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/divyamanaswini05/Leetcode/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyamanaswini05/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -185,6 +188,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/divyamanaswini05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyamanaswini05/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/divyamanaswini05/Leetcode/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyamanaswini05/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
