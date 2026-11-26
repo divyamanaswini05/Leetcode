@@ -35,6 +35,7 @@
 | [0905-sort-array-by-parity](https://github.com/divyamanaswini05/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/divyamanaswini05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyamanaswini05/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/divyamanaswini05/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/divyamanaswini05/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/divyamanaswini05/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyamanaswini05/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -90,6 +91,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/divyamanaswini05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyamanaswini05/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyamanaswini05/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/divyamanaswini05/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/divyamanaswini05/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/divyamanaswini05/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/divyamanaswini05/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -112,6 +114,7 @@
 | [0611-valid-triangle-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/divyamanaswini05/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyamanaswini05/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/divyamanaswini05/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyamanaswini05/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/divyamanaswini05/Leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyamanaswini05/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -134,6 +137,7 @@
 | [0268-missing-number](https://github.com/divyamanaswini05/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyamanaswini05/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/divyamanaswini05/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/divyamanaswini05/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/divyamanaswini05/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyamanaswini05/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -190,6 +194,7 @@
 | [0905-sort-array-by-parity](https://github.com/divyamanaswini05/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/divyamanaswini05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyamanaswini05/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/divyamanaswini05/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/divyamanaswini05/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/divyamanaswini05/Leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyamanaswini05/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
